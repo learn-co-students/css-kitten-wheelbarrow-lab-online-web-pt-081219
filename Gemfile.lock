@@ -1,0 +1,12 @@
+GEM
+  specs:
+    httpserver (0.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpserver
+
+BUNDLED WITH
+   2.0.2
